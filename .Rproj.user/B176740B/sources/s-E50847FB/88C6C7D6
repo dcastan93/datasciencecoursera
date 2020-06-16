@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592328250552.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "613898304",
+    "id" : "88C6C7D6",
+    "lastKnownWriteTime" : 1592328332,
+    "last_content_update" : 1592328332034,
+    "path" : "C:/Users/dlcastaneda/OneDrive - Politécnico Grancolombiano/PoliGran/DataScience/Prueba/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

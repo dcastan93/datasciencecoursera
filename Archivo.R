@@ -1,0 +1,1 @@
+print("this is an example created in order to verify if i was able to linked Rstudio within GitHub")
