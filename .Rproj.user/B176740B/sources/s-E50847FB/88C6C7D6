@@ -5,19 +5,20 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "613898304",
+    "hash" : "1592310568",
     "id" : "88C6C7D6",
-    "lastKnownWriteTime" : 1592328332,
-    "last_content_update" : 1592328332034,
-    "path" : "C:/Users/dlcastaneda/OneDrive - Politécnico Grancolombiano/PoliGran/DataScience/Prueba/HelloWorld.Rmd",
-    "project_path" : "HelloWorld.Rmd",
+    "lastKnownWriteTime" : 1592344089,
+    "last_content_update" : 1592344089246,
+    "path" : "C:/Users/dlcastaneda/OneDrive - Politécnico Grancolombiano/PoliGran/DataScience/Prueba/HelloWorld.md",
+    "project_path" : "HelloWorld.md",
     "properties" : {
-        "cursorPosition" : "7,0",
+        "cursorPosition" : "10,0",
         "scrollLine" : "0",
-        "tempName" : "Untitled2"
+        "tempName" : "Untitled2",
+        "working_dir" : "project"
     },
     "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_markdown"
+    "type" : "markdown"
 }
